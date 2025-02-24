@@ -22,7 +22,7 @@
 - 💞 I’m looking to collaborate on impactful opem-source projects related to Al,DevOps automation,and mobile apps,Let's create something cool together!.
 - 📫 Reach me tejswinisutar56@gmail.com 
 - 😄 Pronouns: She/Her
-- ⚡️ Fun fact: Watching Movie..!
+- ⚡️ Fun fact: Watching Movies..!
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
