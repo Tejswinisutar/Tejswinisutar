@@ -1,18 +1,28 @@
 <div id="header" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300"/>
-
-<h1 align="center">Hi 👋, I'm Tejswini</h1>
-<br>
-  <a href="https://www.linkedin.com/in/tejswini-sutar-071539347/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linked" alt="LinkedIn" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="280"/>
+  <h3>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Tejswini</h3>
+  <br>
+  <a href="https://www.linkedin.com/in/tejswini-sutar-071539347/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+ 
+<!--   <a href="https://fb.com/snehalrenushe">
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a> -->
 </div>
-  
-### About Me:
-- 🔭 I’m currently working as a Frontend Developer  
-- 🌱 I’m currently learning C#.Net , Web Development & Android Flutter  
-- 💬 
-- 📫 How to reach me: tejswinisutar56@gmail.com
+
+<br>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Tejswinisutar&label=Profile%20views&color=0e75b6&style=flat" alt="Tejswinisutar" /></p>
+<h3 align="center">Hustling today for the future I see..!</h3>
+
+- 👋 Hi, I’m Tejswini Passionate about transforming ideas into reality with code. I live solving complex problems with simple solution.
+- 👀 I’m interested in full-stack developement, open source projects,and Al-driven innovations. I also love blockchain technologies!.
+- 🌱 I’m currently learning C,C++,Web3,.Net development,and deep learning algorithms.Always diving into new frameworks!. 
+- 💞 I’m looking to collaborate on impactful opem-source projects related to Al,DevOps automation,and mobile apps,Let's create something cool together!.
+- 📫 Reach me tejswinisutar56@gmail.com 
+- 😄 Pronouns: She/Her
+- ⚡️ Fun fact: Watching Movie..!
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
