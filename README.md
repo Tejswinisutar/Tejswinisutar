@@ -12,17 +12,15 @@
 </div>
 
 <br>
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Tejswinisutar&label=Profile%20views&color=0e75b6&style=flat" alt="Tejswinisutar" /></p>
 <h3 align="center">Hustling today for the future I see..!</h3>
 
-- 👋 Hi, I’m Tejswini Passionate about transforming ideas into reality with code. I live solving complex problems with simple solution.
-- 👀 I’m interested in full-stack developement, open source projects,and Al-driven innovations. I also love blockchain technologies!.
-- 🌱 I’m currently learning C,C++,Web3,.Net development,and deep learning algorithms.Always diving into new frameworks!. 
-- 💞 I’m looking to collaborate on impactful opem-source projects related to Al,DevOps automation,and mobile apps,Let's create something cool together!.
-- 📫 Reach me tejswinisutar56@gmail.com 
-- 😄 Pronouns: She/Her
-- ⚡️ Fun fact: Watching Movies..!
+- 🔭 I’m currently working as C#.Net & Web Developer.
+- 👀 I’m interested in full-stack developement, I also love blockchain technologies.
+- 🌱 I’m currently learning C,C++,C#.Net,Web Development,Android Flutter. 
+- 💞 I’m looking to collaborate on impactful opem-source projects related to Al,DevOps automation,and mobile apps,Let's create something cool together.
+- 📫 Reach me: tejswinisutar56@gmail.com 
+- 😄 Pronouns: She/Her.
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
